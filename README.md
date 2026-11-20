@@ -1,3 +1,5 @@
+# ZYNESIX
+
 # Zynexis Technologies — Single-product Website Draft
 
 A responsive five-page static website prototype built from the supplied brief.
